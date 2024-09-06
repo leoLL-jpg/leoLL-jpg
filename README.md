@@ -1,7 +1,9 @@
 - 👋 Leonardo, 21, Sp
-- ele/dele
+- portuguese/english
+- him/his/ele/dele
 - transgender
 - learning: python, php
+- inetresses in: backend dev
 - more experiences in: C, C#, javascript
 - movies and videogames are my favorite hobbies
 
